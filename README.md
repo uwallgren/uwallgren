@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @uwallgren
-- 👀 I’m interested in pytorch, salina
-- 🌱 I’m currently learning pytorch
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @ulf
 - 📫 How to reach me mail ujgwallgren@gmail.com
 
 <!---
