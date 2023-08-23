@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ulf
+- I struggle with Pettingzoo multi agents for pistonball using SB3 PPO 
 - 📫 How to reach me mail ujgwallgren@gmail.com
 
 <!---
